@@ -20,8 +20,10 @@
 
 4.  **for more token change contract adress in line 11 **:
     ```
-    proxy.txt
-    user:pass@ip:port
-    user:pass@ip:port
-
+sample
+    USDT_CONTRACT = "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    BTT_CONTRACT = "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4"
+    
+    
+    
 ## ⭐Run python main.py
